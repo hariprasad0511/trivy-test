@@ -1,1 +1,1 @@
-Testing trivy scanner for terraform
+Testing trivy scanner for terraform security
