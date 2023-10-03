@@ -1,0 +1,1 @@
+Testing trivy scanner for terraform
