@@ -18,7 +18,8 @@ jobs:
         with:
             scan-type: 'config'
             hide-progress: false
-            format: 'json'
+            format: 'sarif'
+            output: 'trivy-results.sarif'
             exit-code: '1'
             ignore-unfixed: true
             severity: 'CRITICAL,HIGH'
